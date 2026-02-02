@@ -1,5 +1,5 @@
 ---
-title: "Tutor for programming methods"
+title: "Tutor for object-oriented software development (Oct'2022 - Feb'2023)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/pmt-1
